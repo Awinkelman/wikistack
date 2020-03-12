@@ -1,2 +1,2 @@
 # wikistack
-Week 2 - Wickstack project
+Week 2 - Wikistack project
